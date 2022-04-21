@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.exe
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.deps.json
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.dll
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\bin\Debug\net5.0\7. NxN Matrix.pdb
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.dll
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\refint\7. NxN Matrix.dll
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.pdb
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\7. NxN Matrix.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Methods\7. NxN Matrix\obj\Debug\net5.0\ref\7. NxN Matrix.dll
