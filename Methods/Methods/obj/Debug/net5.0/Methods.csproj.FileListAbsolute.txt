@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Methods\Methods\bin\Debug\net5.0\Methods.exe
+D:\Programming\C#\SoftUni\Code\Methods\Methods\bin\Debug\net5.0\Methods.deps.json
+D:\Programming\C#\SoftUni\Code\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Methods\Methods\bin\Debug\net5.0\Methods.dll
+D:\Programming\C#\SoftUni\Code\Methods\Methods\bin\Debug\net5.0\Methods.pdb
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.dll
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\refint\Methods.dll
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.pdb
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Methods\Methods\obj\Debug\net5.0\ref\Methods.dll

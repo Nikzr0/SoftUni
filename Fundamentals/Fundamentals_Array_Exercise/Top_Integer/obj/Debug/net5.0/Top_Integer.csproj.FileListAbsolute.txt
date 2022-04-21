@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\bin\Debug\net5.0\Top_Integer.exe
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\bin\Debug\net5.0\Top_Integer.deps.json
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\bin\Debug\net5.0\Top_Integer.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\bin\Debug\net5.0\Top_Integer.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\bin\Debug\net5.0\Top_Integer.dll
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\bin\Debug\net5.0\Top_Integer.pdb
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.dll
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\refint\Top_Integer.dll
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.pdb
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\Top_Integer.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Fundamentals\Top_Integer\obj\Debug\net5.0\ref\Top_Integer.dll
