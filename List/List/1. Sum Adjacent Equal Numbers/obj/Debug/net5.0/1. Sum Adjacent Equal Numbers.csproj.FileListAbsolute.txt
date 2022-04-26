@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.exe
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.deps.json
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.dll
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\bin\Debug\net5.0\1. Sum Adjacent Equal Numbers.pdb
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.dll
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\refint\1. Sum Adjacent Equal Numbers.dll
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.pdb
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\1. Sum Adjacent Equal Numbers.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\List\1. Sum Adjacent Equal Numbers\obj\Debug\net5.0\ref\1. Sum Adjacent Equal Numbers.dll
