@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\bin\Debug\net5.0\4. List of Products.exe
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\bin\Debug\net5.0\4. List of Products.deps.json
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\bin\Debug\net5.0\4. List of Products.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\bin\Debug\net5.0\4. List of Products.dll
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\bin\Debug\net5.0\4. List of Products.pdb
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.dll
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\refint\4. List of Products.dll
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.pdb
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\4. List of Products.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\List\4. List of Products\obj\Debug\net5.0\ref\4. List of Products.dll

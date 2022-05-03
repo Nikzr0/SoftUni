@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.exe
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.deps.json
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.dll
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\bin\Debug\net5.0\2. Gauss' Trick.pdb
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.dll
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\refint\2. Gauss' Trick.dll
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.pdb
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\2. Gauss' Trick.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\List\2. Gauss' Trick\obj\Debug\net5.0\ref\2. Gauss' Trick.dll
