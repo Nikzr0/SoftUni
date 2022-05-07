@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\bin\Debug\net5.0\2. Change List.exe
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\bin\Debug\net5.0\2. Change List.deps.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\bin\Debug\net5.0\2. Change List.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\bin\Debug\net5.0\2. Change List.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\bin\Debug\net5.0\2. Change List.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\bin\Debug\net5.0\2. Change List.pdb
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\refint\2. Change List.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.pdb
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\2. Change List.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\2. Change List\obj\Debug\net5.0\ref\2. Change List.dll

@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\bin\Debug\net5.0\3. House Party.exe
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\bin\Debug\net5.0\3. House Party.deps.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\bin\Debug\net5.0\3. House Party.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\bin\Debug\net5.0\3. House Party.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\bin\Debug\net5.0\3. House Party.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\bin\Debug\net5.0\3. House Party.pdb
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\refint\3. House Party.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.pdb
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\3. House Party.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\3. House Party\obj\Debug\net5.0\ref\3. House Party.dll

@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.exe
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.deps.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\bin\Debug\net5.0\10. SoftUni Course Planning.pdb
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\refint\10. SoftUni Course Planning.dll
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.pdb
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\10. SoftUni Course Planning.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\Exercise Lists\10. SoftUni Course Planning\obj\Debug\net5.0\ref\10. SoftUni Course Planning.dll
