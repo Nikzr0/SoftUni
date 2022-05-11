@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj": {}
+    "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj": {
+    "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj",
         "projectName": "I. Using the Built-in .NET Classes",
-        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj",
+        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\I. Using the Built-in .NET Classes.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\I. Using the Built-in .NET Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

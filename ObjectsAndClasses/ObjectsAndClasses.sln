@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I. Using the Built-in .NET Classes", "I. Using the Built-in .NET Classes\I. Using the Built-in .NET Classes.csproj", "{452714E3-A0F9-46C7-B52B-490E18B85540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I. Using the Built-in .NET Classes", "I. Using the Built-in .NET Classes\I. Using the Built-in .NET Classes.csproj", "{452714E3-A0F9-46C7-B52B-490E18B85540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Randomize Words", "1. Randomize Words\1. Randomize Words.csproj", "{D846791E-D7F3-49C6-805C-0383CF6A8270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Randomize Words", "1. Randomize Words\1. Randomize Words.csproj", "{D846791E-D7F3-49C6-805C-0383CF6A8270}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Big Factorial", "2. Big Factorial\2. Big Factorial.csproj", "{9FC9361B-01F7-4284-965C-C48865D8F624}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Songs", "3. Songs\3. Songs.csproj", "{B49F7366-FDB4-4DD5-B6A1-74CADC178B1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Students", "4. Students\4. Students.csproj", "{16378762-FDC9-445B-8547-AC3F83363D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Students 2.0", "5. Students 2.0\5. Students 2.0.csproj", "{5C2398AE-EA9F-43A2-BAD7-F47E20D75C3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{D846791E-D7F3-49C6-805C-0383CF6A8270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D846791E-D7F3-49C6-805C-0383CF6A8270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D846791E-D7F3-49C6-805C-0383CF6A8270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC9361B-01F7-4284-965C-C48865D8F624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC9361B-01F7-4284-965C-C48865D8F624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC9361B-01F7-4284-965C-C48865D8F624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC9361B-01F7-4284-965C-C48865D8F624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49F7366-FDB4-4DD5-B6A1-74CADC178B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49F7366-FDB4-4DD5-B6A1-74CADC178B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49F7366-FDB4-4DD5-B6A1-74CADC178B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49F7366-FDB4-4DD5-B6A1-74CADC178B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16378762-FDC9-445B-8547-AC3F83363D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16378762-FDC9-445B-8547-AC3F83363D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16378762-FDC9-445B-8547-AC3F83363D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16378762-FDC9-445B-8547-AC3F83363D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2398AE-EA9F-43A2-BAD7-F47E20D75C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2398AE-EA9F-43A2-BAD7-F47E20D75C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2398AE-EA9F-43A2-BAD7-F47E20D75C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2398AE-EA9F-43A2-BAD7-F47E20D75C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

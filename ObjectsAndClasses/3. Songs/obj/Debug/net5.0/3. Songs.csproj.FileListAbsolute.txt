@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\bin\Debug\net5.0\3. Songs.exe
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\bin\Debug\net5.0\3. Songs.deps.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\bin\Debug\net5.0\3. Songs.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\bin\Debug\net5.0\3. Songs.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\bin\Debug\net5.0\3. Songs.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\bin\Debug\net5.0\3. Songs.pdb
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\refint\3. Songs.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.pdb
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\3. Songs.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\3. Songs\obj\Debug\net5.0\ref\3. Songs.dll

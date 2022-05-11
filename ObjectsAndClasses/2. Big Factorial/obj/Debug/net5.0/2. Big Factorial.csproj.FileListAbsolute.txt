@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.exe
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.deps.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.pdb
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\refint\2. Big Factorial.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.pdb
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\2. Big Factorial\obj\Debug\net5.0\ref\2. Big Factorial.dll
