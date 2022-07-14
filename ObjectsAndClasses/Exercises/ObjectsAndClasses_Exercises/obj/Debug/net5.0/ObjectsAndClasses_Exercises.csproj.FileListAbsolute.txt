@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\bin\Debug\net5.0\ObjectsAndClasses_Exercises.exe
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\bin\Debug\net5.0\ObjectsAndClasses_Exercises.deps.json
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\bin\Debug\net5.0\ObjectsAndClasses_Exercises.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\bin\Debug\net5.0\ObjectsAndClasses_Exercises.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\bin\Debug\net5.0\ObjectsAndClasses_Exercises.dll
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\bin\Debug\net5.0\ObjectsAndClasses_Exercises.pdb
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.dll
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\refint\ObjectsAndClasses_Exercises.dll
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.pdb
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ObjectsAndClasses_Exercises.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises\obj\Debug\net5.0\ref\ObjectsAndClasses_Exercises.dll

@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\bin\Debug\net5.0\3. Articles 2.0.exe
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\bin\Debug\net5.0\3. Articles 2.0.deps.json
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\bin\Debug\net5.0\3. Articles 2.0.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\bin\Debug\net5.0\3. Articles 2.0.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\bin\Debug\net5.0\3. Articles 2.0.dll
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\bin\Debug\net5.0\3. Articles 2.0.pdb
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.dll
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\refint\3. Articles 2.0.dll
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.pdb
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\3. Articles 2.0.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\ObjectsAndClasses_Exercises\3. Articles 2.0\obj\Debug\net5.0\ref\3. Articles 2.0.dll
