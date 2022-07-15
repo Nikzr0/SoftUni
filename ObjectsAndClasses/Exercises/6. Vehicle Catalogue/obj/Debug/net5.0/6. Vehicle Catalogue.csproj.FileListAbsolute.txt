@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.exe
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.deps.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\bin\Debug\net5.0\6. Vehicle Catalogue.pdb
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\refint\6. Vehicle Catalogue.dll
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.pdb
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\6. Vehicle Catalogue.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\ObjectsAndClasses\Exercises\6. Vehicle Catalogue\obj\Debug\net5.0\ref\6. Vehicle Catalogue.dll

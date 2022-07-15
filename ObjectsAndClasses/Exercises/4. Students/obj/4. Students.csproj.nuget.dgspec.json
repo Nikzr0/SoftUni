@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\4. Students\\4. Students.csproj": {}
+    "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\4. Students\\4. Students.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\4. Students\\4. Students.csproj": {
+    "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\4. Students\\4. Students.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\4. Students\\4. Students.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\4. Students\\4. Students.csproj",
         "projectName": "4. Students",
-        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\4. Students\\4. Students.csproj",
+        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\4. Students\\4. Students.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\4. Students\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\4. Students\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

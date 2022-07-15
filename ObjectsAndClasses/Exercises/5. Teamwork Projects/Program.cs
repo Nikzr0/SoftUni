@@ -2,24 +2,23 @@
 using System.Collections.Generic;
 using System.Linq;
 
-
 class Team
 {
-    public string CreatorOfTeam { get; set; }
+    public string CreatorOfTeam { get; set; } // Team Creator
     public string NameOfTeam { get; set; } // The name of the team!
     public List<string> Members { get; set; } // All members of the team
 }
 class Program
 {
     static void Main()
-    { 
+    {
         int n = int.Parse(Console.ReadLine());// HOW MANY TEAMS
         List<Team> teams = new List<Team>();// LIST OF ALL TEAMS  Creator name + Team name + All members
         List<string> exeptions = new List<string>();
 
         for (int i = 0; i < n; i++)
         {
-            string[] input = Console.ReadLine().Split("-"); 
+            string[] input = Console.ReadLine().Split("-");
             string creator = input[0];// CREATOR
             string teamName = input[1];// THE NAME OF THE TEAM
 
@@ -31,23 +30,20 @@ class Program
             {
                 exeptions.Add($"{creator} cannot create another team!");
             }
-            else 
+            else
             {
-                var team = new Team();
-                team.NameOfTeam = teamName;
-                team.CreatorOfTeam = creator;
-                team.Members = new List<string>();
-                teams.Add(team);
+                Team t = new Team();
+                t.NameOfTeam = teamName;
+                t.CreatorOfTeam = creator;
+                t.Members = new List<string>();
+                teams.Add(t);
                 exeptions.Add($"Team {teamName} has been created by {creator}!");
             }
         }
 
-        var inputInfo = Console.ReadLine();
+        string inputInfo = Console.ReadLine();
         while (inputInfo != "end of assignment")
         {
-            //var user = commands.Split(new string[] {"->"}, StringSplitOptions.None)[0];// commands[0]
-            //var teamToJoin = commands.Split(new string[] {"->"}, StringSplitOptions.None)[1];// commands[1]
-
             string[] commands = inputInfo.Split("->");
             string user = commands[0];
             string teamToJoin = commands[1];
@@ -62,7 +58,7 @@ class Program
             }
             else
             {
-                var currentTeam = teams.First(x => x.NameOfTeam == teamToJoin);
+                Team currentTeam = teams.First(x => x.NameOfTeam == teamToJoin);
                 currentTeam.Members.Add(user);
             }
 
@@ -87,7 +83,7 @@ class Program
                 Console.WriteLine($"{item.NameOfTeam}");
                 Console.WriteLine($"- {item.CreatorOfTeam}"); // CREATOR
 
-                foreach (string member in item.Members.OrderBy(member => member))
+                foreach (string member in item.Members.OrderBy(x => x))
                 {
                     Console.WriteLine($"-- {member}"); // ALL MEMBERS
                 }
@@ -97,7 +93,7 @@ class Program
         Console.WriteLine("Teams to disband:");
         if (disbandedTeams != null)
         {
-            foreach (Team item in disbandedTeams.OrderBy(x => x))
+            foreach (Team item in disbandedTeams.OrderBy(x => x.NameOfTeam))
             {
                 Console.WriteLine($"{item.NameOfTeam}");
             }

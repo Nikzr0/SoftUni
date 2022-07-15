@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\1. Advertisement Message\\1. Advertisement Message.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\1. Advertisement Message\\1. Advertisement Message.csproj",
       "projectName": "1. Advertisement Message",
-      "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\1. Advertisement Message\\1. Advertisement Message.csproj",
+      "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\1. Advertisement Message\\1. Advertisement Message.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\ObjectsAndClasses_Exercises\\1. Advertisement Message\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\ObjectsAndClasses\\Exercises\\1. Advertisement Message\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

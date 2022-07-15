@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectsAndClasses_Exercises", "ObjectsAndClasses_Exercises\ObjectsAndClasses_Exercises.csproj", "{7295D2C8-BDBC-40FB-8811-DB24892D564B}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Advertisement Message", "1. Advertisement Message\1. Advertisement Message.csproj", "{F58DBC87-8795-43D5-8CF1-7E9CB0EE73ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Articles", "2. Articles\2. Articles.csproj", "{A443FED7-EAD9-426E-9DD5-FEEB7CAAF2A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Articles", "2. Articles\2. Articles.csproj", "{A443FED7-EAD9-426E-9DD5-FEEB7CAAF2A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Temp", "Classes_Temp\Classes_Temp.csproj", "{26DE2648-503D-423A-971E-6ABAB9824215}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Temp", "Classes_Temp\Classes_Temp.csproj", "{26DE2648-503D-423A-971E-6ABAB9824215}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Articles 2.0", "3. Articles 2.0\3. Articles 2.0.csproj", "{DBEC57D3-D807-4F87-AA9F-2C3524977655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Articles 2.0", "3. Articles 2.0\3. Articles 2.0.csproj", "{DBEC57D3-D807-4F87-AA9F-2C3524977655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Students", "4. Students\4. Students.csproj", "{0BBDFB0A-AFE0-4759-B3A1-FCF3B478E66C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Students", "4. Students\4. Students.csproj", "{0BBDFB0A-AFE0-4759-B3A1-FCF3B478E66C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Teamwork Projects", "5. Teamwork Projects\5. Teamwork Projects.csproj", "{7CF63988-BA61-4E61-912D-B30420B1B23F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Teamwork Projects", "5. Teamwork Projects\5. Teamwork Projects.csproj", "{7CF63988-BA61-4E61-912D-B30420B1B23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Vehicle Catalogue", "6. Vehicle Catalogue\6. Vehicle Catalogue.csproj", "{6B84B478-5A88-4776-8A56-399AD76BDB24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7295D2C8-BDBC-40FB-8811-DB24892D564B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7295D2C8-BDBC-40FB-8811-DB24892D564B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7295D2C8-BDBC-40FB-8811-DB24892D564B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7295D2C8-BDBC-40FB-8811-DB24892D564B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F58DBC87-8795-43D5-8CF1-7E9CB0EE73ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F58DBC87-8795-43D5-8CF1-7E9CB0EE73ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F58DBC87-8795-43D5-8CF1-7E9CB0EE73ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{7CF63988-BA61-4E61-912D-B30420B1B23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF63988-BA61-4E61-912D-B30420B1B23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF63988-BA61-4E61-912D-B30420B1B23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B84B478-5A88-4776-8A56-399AD76BDB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B84B478-5A88-4776-8A56-399AD76BDB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B84B478-5A88-4776-8A56-399AD76BDB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B84B478-5A88-4776-8A56-399AD76BDB24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
