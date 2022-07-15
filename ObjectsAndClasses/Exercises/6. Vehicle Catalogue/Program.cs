@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 class Vehicles
 {
@@ -9,6 +10,24 @@ class Vehicles
     public string Color { get; set; }
     public int HP { get; set; }
 
+    public Vehicles(string type, string model, string color, int hp)
+    {
+        Type = type;
+        Model = model;
+        Color = color;
+        HP = hp;
+    }
+
+
+    public override string ToString()
+    {
+        var builder = new StringBuilder();
+        builder.AppendLine($"Type: {char.ToUpper(Type[0]) + Type.Substring(1)}");
+        builder.AppendLine($"Model: {Model}");
+        builder.AppendLine($"Color: {Color}");
+        builder.AppendLine($"Horsepower: {HP}");
+        return builder.ToString().TrimEnd();
+    }
 }
 
 
@@ -19,7 +38,6 @@ class Program
         List<Vehicles> vehicles = new List<Vehicles>();
         List<Vehicles> finalVehicles = new List<Vehicles>();
         List<string> vehiclesNames = new List<string>();
-
 
         while (true)
         {
@@ -32,7 +50,7 @@ class Program
 
             string[] command = vehicleInfo.Split(" "); // {typeOfVehicle} {model} {color} {horsepower}
 
-            Vehicles v = new Vehicles();
+            Vehicles v = new Vehicles(command[0], command[1], command[2], int.Parse(command[3]));
             v.Type = command[0];
             v.Model = command[1];
             v.Color = command[2];
@@ -87,10 +105,7 @@ class Program
 
         foreach (var item in finalVehicles)
         {
-            Console.WriteLine($"Type: {char.ToUpper(item.Type[0]) + item.Type.Substring(1)}");
-            Console.WriteLine($"Model: {item.Model}");
-            Console.WriteLine($"Color: {item.Color}");
-            Console.WriteLine($"Horsepower: {item.HP}");
+            Console.WriteLine(item);
         }
 
         // AVARAGE HORSEPOWER
