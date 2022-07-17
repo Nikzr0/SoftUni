@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\bin\Debug\net5.0\I. Associative Arrays.exe
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\bin\Debug\net5.0\I. Associative Arrays.deps.json
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\bin\Debug\net5.0\I. Associative Arrays.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\bin\Debug\net5.0\I. Associative Arrays.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\bin\Debug\net5.0\I. Associative Arrays.dll
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\bin\Debug\net5.0\I. Associative Arrays.pdb
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.dll
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\refint\I. Associative Arrays.dll
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.pdb
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\I. Associative Arrays.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\List\Associative Arrays\I. Associative Arrays\obj\Debug\net5.0\ref\I. Associative Arrays.dll
