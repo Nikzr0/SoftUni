@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj": {}
+    "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj": {
+    "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj",
         "projectName": "4. Largest 3 Numbers",
-        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj",
+        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\4. Largest 3 Numbers\\4. Largest 3 Numbers.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\4. Largest 3 Numbers\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\4. Largest 3 Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj": {}
+    "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj": {
+    "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj",
         "projectName": "3. Word Synonyms",
-        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj",
+        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\3. Word Synonyms\\3. Word Synonyms.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\3. Word Synonyms\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\3. Word Synonyms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

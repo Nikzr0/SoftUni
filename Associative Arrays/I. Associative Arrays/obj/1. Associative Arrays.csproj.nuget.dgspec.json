@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj": {}
+    "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj": {
+    "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj",
         "projectName": "1. Associative Arrays",
-        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj",
+        "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\I. Associative Arrays\\1. Associative Arrays.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\List\\Associative Arrays\\I. Associative Arrays\\obj\\",
+        "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\I. Associative Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

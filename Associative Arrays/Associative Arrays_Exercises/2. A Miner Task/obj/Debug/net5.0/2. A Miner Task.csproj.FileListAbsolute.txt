@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\bin\Debug\net5.0\2. A Miner Task.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\refint\2. A Miner Task.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\2. A Miner Task.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\2. A Miner Task\obj\Debug\net5.0\ref\2. A Miner Task.dll
