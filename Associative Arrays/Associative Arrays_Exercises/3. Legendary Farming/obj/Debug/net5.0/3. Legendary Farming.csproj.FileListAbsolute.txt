@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\bin\Debug\net5.0\3. Legendary Farming.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\refint\3. Legendary Farming.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\3. Legendary Farming.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\3. Legendary Farming\obj\Debug\net5.0\ref\3. Legendary Farming.dll

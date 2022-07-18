@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\bin\Debug\net5.0\7.  Student Academy.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\refint\7.  Student Academy.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\7.  Student Academy.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\7.  Student Academy\obj\Debug\net5.0\ref\7.  Student Academy.dll
