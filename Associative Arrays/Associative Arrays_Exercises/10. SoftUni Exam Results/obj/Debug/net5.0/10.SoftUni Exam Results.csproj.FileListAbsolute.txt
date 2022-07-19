@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\bin\Debug\net5.0\10.SoftUni Exam Results.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\bin\Debug\net5.0\10.SoftUni Exam Results.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\bin\Debug\net5.0\10.SoftUni Exam Results.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\bin\Debug\net5.0\10.SoftUni Exam Results.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\bin\Debug\net5.0\10.SoftUni Exam Results.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\bin\Debug\net5.0\10.SoftUni Exam Results.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\refint\10.SoftUni Exam Results.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\10.SoftUni Exam Results.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Associative Arrays_Exercises\10. SoftUni Exam Results\obj\Debug\net5.0\ref\10.SoftUni Exam Results.dll
