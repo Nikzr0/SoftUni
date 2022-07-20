@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\bin\Debug\net5.0\1. Reverse Strings.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\bin\Debug\net5.0\1. Reverse Strings.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\bin\Debug\net5.0\1. Reverse Strings.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\bin\Debug\net5.0\1. Reverse Strings.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\bin\Debug\net5.0\1. Reverse Strings.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\refint\1. Reverse Strings.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\1. Reverse Strings.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\Text Processing\obj\Debug\net5.0\ref\1. Reverse Strings.dll

@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\bin\Debug\net5.0\4. Text Filter.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\refint\4. Text Filter.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\4. Text Filter.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\4. Text Filter\obj\Debug\net5.0\ref\4. Text Filter.dll

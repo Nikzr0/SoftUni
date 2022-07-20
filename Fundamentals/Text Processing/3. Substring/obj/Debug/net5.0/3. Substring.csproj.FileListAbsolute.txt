@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\bin\Debug\net5.0\3. Substring.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\refint\3. Substring.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\3. Substring.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\3. Substring\obj\Debug\net5.0\ref\3. Substring.dll

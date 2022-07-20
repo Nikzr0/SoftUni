@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.exe
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.deps.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\bin\Debug\net5.0\2. Repeat Strings.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\refint\2. Repeat Strings.dll
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.pdb
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\2. Repeat Strings.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Associative Arrays\Text Processing\2. Repeat Strings\obj\Debug\net5.0\ref\2. Repeat Strings.dll
