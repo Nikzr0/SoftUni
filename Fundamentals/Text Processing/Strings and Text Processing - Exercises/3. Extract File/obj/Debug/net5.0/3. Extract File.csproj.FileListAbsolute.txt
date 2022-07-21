@@ -1,0 +1,16 @@
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.csproj.AssemblyReference.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.AssemblyInfoInputs.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.AssemblyInfo.cs
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\bin\Debug\net5.0\3. Extract File.exe
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\bin\Debug\net5.0\3. Extract File.deps.json
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\bin\Debug\net5.0\3. Extract File.runtimeconfig.json
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\bin\Debug\net5.0\3. Extract File.runtimeconfig.dev.json
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\bin\Debug\net5.0\3. Extract File.dll
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\bin\Debug\net5.0\3. Extract File.pdb
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.dll
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\refint\3. Extract File.dll
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.pdb
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\3. Extract File.genruntimeconfig.cache
+D:\Programming\C#\SoftUni\Code\Fundamentals\Text Processing\Strings and Text Processing - Exercises\3. Extract File\obj\Debug\net5.0\ref\3. Extract File.dll

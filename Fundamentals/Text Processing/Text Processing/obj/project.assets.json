@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\Text Processing\\Text Processing\\1. Reverse Strings.csproj",
+      "projectUniqueName": "D:\\Programming\\C#\\SoftUni\\Code\\Fundamentals\\Text Processing\\Text Processing\\1. Reverse Strings.csproj",
       "projectName": "1. Reverse Strings",
-      "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\Text Processing\\Text Processing\\1. Reverse Strings.csproj",
+      "projectPath": "D:\\Programming\\C#\\SoftUni\\Code\\Fundamentals\\Text Processing\\Text Processing\\1. Reverse Strings.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\Associative Arrays\\Text Processing\\Text Processing\\obj\\",
+      "outputPath": "D:\\Programming\\C#\\SoftUni\\Code\\Fundamentals\\Text Processing\\Text Processing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
