@@ -9,7 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.  Character Multiplier", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Extract File", "3. Extract File\3. Extract File.csproj", "{39E69670-5131-4232-A517-9EBDB10E9768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.  Caesar Cipher", "4.  Caesar Cipher\4.  Caesar Cipher.csproj", "{6AB5D56F-DC25-40B0-B9C0-8FCE6B29AFB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.  Caesar Cipher", "4.  Caesar Cipher\4.  Caesar Cipher.csproj", "{6AB5D56F-DC25-40B0-B9C0-8FCE6B29AFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05. MultiplyBigNumber", "Ex05. MultiplyBigNumber\Ex05. MultiplyBigNumber.csproj", "{26D84016-93CC-4BB8-91C5-09BA17B76A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06.ReplaceRepeatingChars", "Ex06.ReplaceRepeatingChars\Ex06.ReplaceRepeatingChars.csproj", "{FBCF1C3A-0039-4F77-9AD3-3C0F70E830A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07.StringExplosion", "Ex07.StringExplosion\Ex07.StringExplosion.csproj", "{D16A35A3-5888-405F-B000-3381355F8A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex08.LettersChangeNumbers", "Ex08.LettersChangeNumbers\Ex08.LettersChangeNumbers.csproj", "{28FD7925-06A3-4F51-BE88-CD3E269B6244}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{6AB5D56F-DC25-40B0-B9C0-8FCE6B29AFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AB5D56F-DC25-40B0-B9C0-8FCE6B29AFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AB5D56F-DC25-40B0-B9C0-8FCE6B29AFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D84016-93CC-4BB8-91C5-09BA17B76A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D84016-93CC-4BB8-91C5-09BA17B76A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D84016-93CC-4BB8-91C5-09BA17B76A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D84016-93CC-4BB8-91C5-09BA17B76A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCF1C3A-0039-4F77-9AD3-3C0F70E830A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCF1C3A-0039-4F77-9AD3-3C0F70E830A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCF1C3A-0039-4F77-9AD3-3C0F70E830A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCF1C3A-0039-4F77-9AD3-3C0F70E830A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16A35A3-5888-405F-B000-3381355F8A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16A35A3-5888-405F-B000-3381355F8A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16A35A3-5888-405F-B000-3381355F8A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16A35A3-5888-405F-B000-3381355F8A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FD7925-06A3-4F51-BE88-CD3E269B6244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FD7925-06A3-4F51-BE88-CD3E269B6244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FD7925-06A3-4F51-BE88-CD3E269B6244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FD7925-06A3-4F51-BE88-CD3E269B6244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
