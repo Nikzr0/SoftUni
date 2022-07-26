@@ -40,6 +40,7 @@ namespace RegularExpressions_Exercises
                     sum = 0;
                 }
             }
+
             Console.WriteLine();
             foreach (var item in dic)
             {

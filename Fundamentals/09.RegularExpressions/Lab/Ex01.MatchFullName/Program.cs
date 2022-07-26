@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace Ex01.MatchFullName_
+namespace Ex01.MatchFullName
 {
     class Program
     {

@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex00.OLX.ChessSearcher", "Regex_Exercises\Ex00.OLX.ChessSearcher.csproj", "{EE080560-9026-43A1-9632-02381DC682AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex00.OLX.ChessSearcher", "OLX\Ex00.OLX.ChessSearcher.csproj", "{EE080560-9026-43A1-9632-02381DC682AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02.Race", "Ex02.Race\Ex02.Race.csproj", "{D1ACC68B-4E47-4B16-AB18-43513F44F550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02.Race", "Ex02.Race\Ex02.Race.csproj", "{D1ACC68B-4E47-4B16-AB18-43513F44F550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01.Furniture", "Ex01.Furniture\Ex01.Furniture.csproj", "{5790B749-2673-41DA-80B0-9A6D6FB5DB96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01.Furniture", "Ex01.Furniture\Ex01.Furniture.csproj", "{5790B749-2673-41DA-80B0-9A6D6FB5DB96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.SoftUniBarIncome", "Ex03.SoftUniBarIncome\Ex03.SoftUniBarIncome.csproj", "{E8A68CC8-F224-431D-AF35-A392D29D25E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5790B749-2673-41DA-80B0-9A6D6FB5DB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5790B749-2673-41DA-80B0-9A6D6FB5DB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5790B749-2673-41DA-80B0-9A6D6FB5DB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A68CC8-F224-431D-AF35-A392D29D25E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A68CC8-F224-431D-AF35-A392D29D25E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A68CC8-F224-431D-AF35-A392D29D25E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A68CC8-F224-431D-AF35-A392D29D25E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
