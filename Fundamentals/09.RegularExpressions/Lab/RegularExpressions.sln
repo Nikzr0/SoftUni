@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex03.MatchDates", "Ex03.Mat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex04.StarEnigma", "Ex04.StarEnigma\Ex04.StarEnigma.csproj", "{D8E27739-D367-45B7-99AB-2D8126AE9FDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.NetherRealms", "Ex05.NetherRealms\Ex05.NetherRealms.csproj", "{BD09D7B0-A805-42ED-80FC-D82A229AA7B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex05.NetherRealms", "Ex05.NetherRealms\Ex05.NetherRealms.csproj", "{BD09D7B0-A805-42ED-80FC-D82A229AA7B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06.ExtractEmails", "Ex06.ExtractEmails\Ex06.ExtractEmails.csproj", "{26BF0F76-1143-4547-8B95-E7235F0BF15D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{BD09D7B0-A805-42ED-80FC-D82A229AA7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD09D7B0-A805-42ED-80FC-D82A229AA7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD09D7B0-A805-42ED-80FC-D82A229AA7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BF0F76-1143-4547-8B95-E7235F0BF15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BF0F76-1143-4547-8B95-E7235F0BF15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BF0F76-1143-4547-8B95-E7235F0BF15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BF0F76-1143-4547-8B95-E7235F0BF15D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
