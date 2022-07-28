@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ExamPreparation
+namespace ComputerStore
 {
-    public class Program
+    internal class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
             List<string> list = new List<string>();
 
@@ -39,7 +39,7 @@ namespace ExamPreparation
             {
                 taxes = priceWithoutTaxes / 5;
                 endPrice = priceWithoutTaxes + taxes;
-                endPrice = endPrice - endPrice / 10; 
+                endPrice = endPrice - endPrice / 10;
             }
             else if (typeOfCustomer == "regular")
             {
@@ -68,6 +68,7 @@ namespace ExamPreparation
                 Console.WriteLine("-----------");
                 Console.WriteLine($"Total price: {endPrice:f2}$");
             }
+
         }
     }
 }
