@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.FastFood", "Ex04.FastF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.FashionBoutique", "Ex05.FashionBoutique\Ex05.FashionBoutique.csproj", "{2A08D438-309D-425A-9CC7-F4CFB0878050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6.SongsQueue", "Ex6.SongsQueue\Ex6.SongsQueue.csproj", "{24D2D5B4-807C-44CE-B976-919E5C7CF49D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06.SongsQueue", "Ex6.SongsQueue\Ex06.SongsQueue.csproj", "{24D2D5B4-807C-44CE-B976-919E5C7CF49D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07.TruckTour", "Ex07.TruckTour\Ex07.TruckTour.csproj", "{06DE3F6A-D313-4B1F-AE12-DB608E3B16ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex8.BalancedParentheses", "Ex8.BalancedParentheses\Ex8.BalancedParentheses.csproj", "{CAC01F23-34E0-4B7F-891F-453A01C56A33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex08.BalancedParentheses", "Ex8.BalancedParentheses\Ex08.BalancedParentheses.csproj", "{CAC01F23-34E0-4B7F-891F-453A01C56A33}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09.SimpleTextEditor", "Ex09.SimpleTextEditor\Ex09.SimpleTextEditor.csproj", "{E936E556-7706-472F-A6C3-AD21F8F01B77}"
 EndProject
