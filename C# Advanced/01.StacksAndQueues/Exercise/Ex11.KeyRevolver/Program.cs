@@ -27,7 +27,6 @@ namespace Ex11.KeyRevolver
                 stackOfBullets.Push(item);
             }
 
-
             int reloder = sizeOfGunBarrel;
 
             int operationLength = stackOfBullets.Count;
@@ -53,11 +52,10 @@ namespace Ex11.KeyRevolver
                 }
                 else
                 {
-                    Console.WriteLine("Reloading");
+                    Console.WriteLine("Reloading!");
                     operationLength++;
                     reloder = sizeOfGunBarrel;
                 }
-
             }
 
             if (stackOfBullets.Count >= 0 && queueOfLocks.Count == 0)
@@ -68,7 +66,6 @@ namespace Ex11.KeyRevolver
             {
                 Console.WriteLine($"Couldn't get through. Locks left: {queueOfLocks.Count}");
             }
-
         }
     }
 }
