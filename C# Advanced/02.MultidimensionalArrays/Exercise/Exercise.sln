@@ -5,11 +5,21 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01.DiagonalDifference", "Ex01.DiagonalDifference\Ex01.DiagonalDifference.csproj", "{2E0C5080-483D-491B-B851-D292FB6AE235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02.2X2SquaresInMatrix", "Ex02.2X2SquaresInMatrix\Ex02.2X2SquaresInMatrix.csproj", "{CC34D284-6062-49D0-A7E7-EF24FF99734F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02.2X2SquaresInMatrix", "Ex02.2X2SquaresInMatrix\Ex02.2X2SquaresInMatrix.csproj", "{CC34D284-6062-49D0-A7E7-EF24FF99734F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.MaximalSum", "Ex03.MaximalSum\Ex03.MaximalSum.csproj", "{F8AB063B-FB1E-4D1D-9A49-14A44940BCD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex03.MaximalSum", "Ex03.MaximalSum\Ex03.MaximalSum.csproj", "{F8AB063B-FB1E-4D1D-9A49-14A44940BCD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.MatrixShuffling", "Ex04.MatrixShuffling\Ex04.MatrixShuffling.csproj", "{FE13A874-6FC2-4CE2-8DE3-388C4C88B971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex04.MatrixShuffling", "Ex04.MatrixShuffling\Ex04.MatrixShuffling.csproj", "{FE13A874-6FC2-4CE2-8DE3-388C4C88B971}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex05.SnakeMoves", "Ex05.SnakeMoves\Ex05.SnakeMoves.csproj", "{0C84C4EF-9037-45AC-B727-6473BC367C25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex06.JaggedArrayManipulator", "Ex06.JaggedArrayManipulator\Ex06.JaggedArrayManipulator.csproj", "{D58764BC-EAC7-4D75-BB2F-F281DBE11E8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex07.KnightGame", "Ex07.KnightGame\Ex07.KnightGame.csproj", "{6A7715AD-3773-40FB-A6B8-1F13A190EB6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex08.Bombs", "Ex08.Bombs\Ex08.Bombs.csproj", "{075824A4-C2BA-4EE4-A211-13EEDCDC2B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09. Miner", "Ex09. Miner\Ex09. Miner.csproj", "{88EA0C63-5BD0-45DA-AA33-C857BBAD2177}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{FE13A874-6FC2-4CE2-8DE3-388C4C88B971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE13A874-6FC2-4CE2-8DE3-388C4C88B971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE13A874-6FC2-4CE2-8DE3-388C4C88B971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C84C4EF-9037-45AC-B727-6473BC367C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C84C4EF-9037-45AC-B727-6473BC367C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C84C4EF-9037-45AC-B727-6473BC367C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C84C4EF-9037-45AC-B727-6473BC367C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58764BC-EAC7-4D75-BB2F-F281DBE11E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58764BC-EAC7-4D75-BB2F-F281DBE11E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58764BC-EAC7-4D75-BB2F-F281DBE11E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58764BC-EAC7-4D75-BB2F-F281DBE11E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7715AD-3773-40FB-A6B8-1F13A190EB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7715AD-3773-40FB-A6B8-1F13A190EB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7715AD-3773-40FB-A6B8-1F13A190EB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7715AD-3773-40FB-A6B8-1F13A190EB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075824A4-C2BA-4EE4-A211-13EEDCDC2B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075824A4-C2BA-4EE4-A211-13EEDCDC2B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075824A4-C2BA-4EE4-A211-13EEDCDC2B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075824A4-C2BA-4EE4-A211-13EEDCDC2B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EA0C63-5BD0-45DA-AA33-C857BBAD2177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EA0C63-5BD0-45DA-AA33-C857BBAD2177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EA0C63-5BD0-45DA-AA33-C857BBAD2177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EA0C63-5BD0-45DA-AA33-C857BBAD2177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
