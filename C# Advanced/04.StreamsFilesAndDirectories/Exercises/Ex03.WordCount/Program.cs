@@ -10,15 +10,11 @@ namespace Ex03.WordCount
     {
         static void Main()
         {
-            using StreamWriter actualResult = new StreamWriter("actualResult.txt");
-            using StreamWriter expectedResult = new StreamWriter("expectedResult.txt");
-
             Dictionary<string, int> dicOfWords = new Dictionary<string, int>();
             List<string> words = File.ReadAllLines("words.txt").ToList();
             List<string> lines = File.ReadAllLines("text.txt").ToList();
 
             Regex regex = new Regex(@"([A-Za-z ])");
-
 
             foreach (var item in words)
             {
@@ -51,21 +47,17 @@ namespace Ex03.WordCount
                 }
             }
 
-
-  
-
             foreach (var item in dicOfWords)
             {
-                actualResult.WriteLine($"{item.Key} - {item.Value}");
+                string result = $"{item.Key} - {item.Value}{Environment.NewLine}";
+                File.AppendAllText("actualResult.txt", result);
             }
 
             foreach (var item in dicOfWords.OrderByDescending(x => x.Value))
             {
-                expectedResult.WriteLine($"{item.Key} - {item.Value}");
-
+                string result = $"{item.Key} - {item.Value}{Environment.NewLine}";
+                File.AppendAllText("expectedResult.txt", result);
             }
-
-
         }
     }
 }
