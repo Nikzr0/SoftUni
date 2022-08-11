@@ -10,8 +10,8 @@ namespace Ex04.CopyBinaryFile
         {
             //File.Copy("myStuff.jpg", "../../../myStuff.jpg");
 
-            FileStream fileReader = new FileStream("myStuff.jpg", FileMode.Open);
-            FileStream fileWriter = new FileStream("../../../myStuff.jpg", FileMode.Create);
+            using  FileStream fileReader = new FileStream("myStuff.jpg", FileMode.Open);
+            using FileStream fileWriter = new FileStream("../../../myStuff.jpg", FileMode.Create);
             byte[] buffer = new byte[256];
 
             while (true)

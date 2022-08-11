@@ -1,0 +1,14 @@
+.json
+--Ex01.DirectoryTraversal.deps.json - 0.000
+--Ex01.DirectoryTraversal.runtimeconfig.dev.json - 0.000
+--Ex01.DirectoryTraversal.runtimeconfig.json - 0.000
+---------------------------------------------
+.dll
+--Ex01.DirectoryTraversal.dll - 6.000
+---------------------------------------------
+.exe
+--Ex01.DirectoryTraversal.exe - 123.000
+---------------------------------------------
+.pdb
+--Ex01.DirectoryTraversal.pdb - 10.000
+---------------------------------------------

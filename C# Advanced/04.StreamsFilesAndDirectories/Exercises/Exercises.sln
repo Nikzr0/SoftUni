@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01.EvenLines", "Ex01.EvenLines\Ex01.EvenLines.csproj", "{B0026FE2-EC84-4E5E-95B7-DB475E6B3D9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex05.EvenLines", "Ex01.EvenLines\Ex05.EvenLines.csproj", "{B0026FE2-EC84-4E5E-95B7-DB475E6B3D9B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02.LineNumbers", "Ex02.LineNumbers\Ex02.LineNumbers.csproj", "{62A35B23-9FD2-47C5-97F6-31195A2A2CFC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex03.WordCount", "Ex03.WordCount\Ex03.WordCount.csproj", "{47E95C4D-2629-4A57-AFDB-29EC750F0400}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.CopyBinaryFile", "Ex04.CopyBinaryFile\Ex04.CopyBinaryFile.csproj", "{447D66DA-1F01-45F0-9505-7EDAD0F65D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01.DirectoryTraversal", "Ex01.DirectoryTraversal\Ex01.DirectoryTraversal.csproj", "{ED5EB0D1-E678-4B5B-AAC8-5A1DA83C7CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06.ZipandExtract", "Ex06.ZipandExtract\Ex06.ZipandExtract.csproj", "{5C8C092B-7E77-4592-A526-B61B01689915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{447D66DA-1F01-45F0-9505-7EDAD0F65D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{447D66DA-1F01-45F0-9505-7EDAD0F65D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{447D66DA-1F01-45F0-9505-7EDAD0F65D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5EB0D1-E678-4B5B-AAC8-5A1DA83C7CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5EB0D1-E678-4B5B-AAC8-5A1DA83C7CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5EB0D1-E678-4B5B-AAC8-5A1DA83C7CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5EB0D1-E678-4B5B-AAC8-5A1DA83C7CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8C092B-7E77-4592-A526-B61B01689915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8C092B-7E77-4592-A526-B61B01689915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8C092B-7E77-4592-A526-B61B01689915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8C092B-7E77-4592-A526-B61B01689915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
