@@ -1,12 +1,16 @@
 ﻿using System;
+using System.Linq;
 
 namespace Ex02.SumNumbers
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            int[] input = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
+
+            Console.WriteLine(input.Length);
+            Console.WriteLine(input.Sum());
         }
     }
 }

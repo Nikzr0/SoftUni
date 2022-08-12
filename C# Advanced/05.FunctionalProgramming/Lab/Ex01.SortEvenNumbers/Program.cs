@@ -1,13 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Ex01.SortEvenNumbers
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            int[] input = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
+
+            List<int> output = new List<int>();
+            foreach (var item in input.Where(x=>x % 2 == 0).OrderBy(y=>y))
+            {
+                output.Add(item);
+            }
+
+            Console.WriteLine(string.Join(", ", output));
         }
     }
 }
