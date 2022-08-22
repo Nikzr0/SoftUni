@@ -6,13 +6,35 @@ namespace Ex12.TriFunction
 {
     internal class Program
     {
-        static void Main()
+        static void Main() // Solved with dictionary
         {
-            int lettersSum = int.Parse(Console.ReadLine());
+            Dictionary<string, int> people = new Dictionary<string, int>();
+
+            int sumOfLetters = int.Parse(Console.ReadLine());
             string[] names = Console.ReadLine().Split(" ");
 
-            Func<string, int, bool> func = (name, sum) => name.Sum(x => x) >= lettersSum;
-            Func<string[],Func<string, int, bool>, string> finalName = ()
+            foreach (var item in names)
+            {
+                if (!people.ContainsKey(item))
+                {
+                    int itemCount = 0;
+                    foreach (var letter in item)
+                    {
+                        itemCount += (int)letter;
+                    }
+
+                    people.Add(item, itemCount);
+                }
+            }
+
+            foreach (var item in people)
+            {
+                if (item.Value >= sumOfLetters)
+                {
+                    Console.WriteLine(item.Key);
+                    break;
+                }
+            }
         }
     }
 }
