@@ -25,7 +25,6 @@ namespace Ex07.RawData
                 Tires[2] = tire3;
                 Tires[3] = tire4;
             }
-
         }
 
         class Engine
