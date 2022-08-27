@@ -23,6 +23,7 @@ namespace Ex02.GenericBoxOfInteger
                 StringBuilder sb = new StringBuilder();
                 foreach (T element in Boxes)
                 {
+                    // sb.AppendLine($"{typeof(T)}: {element}");
                     sb.AppendLine($"{element.GetType()}: {element}");
                 }
 
