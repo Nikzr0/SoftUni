@@ -6,7 +6,7 @@ namespace _01.Masterchef
 {
     public class Program
     {
-        static void Main()
+        static void Main() // Some Errors - not 100% (The structure is good!)
         {
             List<int> ingredients = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
             List<int> freshness = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
@@ -62,10 +62,10 @@ namespace _01.Masterchef
             if (dippingSouce != 0 && greenSalad != 0 && chocoladeCake != 0 && lobster != 0)
             {
                 Console.WriteLine("Applause! The judges are fascinated by your dishes!");
-                Console.WriteLine($"#Chocolate cake --> {chocoladeCake}");
-                Console.WriteLine($"#Dipping sauce --> {dippingSouce}");
-                Console.WriteLine($"#Green salad --> {greenSalad}");
-                Console.WriteLine($"#Lobster --> {lobster}");
+                Console.WriteLine($" # Chocolate cake --> {chocoladeCake}");
+                Console.WriteLine($" # Dipping sauce --> {dippingSouce}");
+                Console.WriteLine($" # Green salad --> {greenSalad}");
+                Console.WriteLine($" # Lobster --> {lobster}");
             }
             else
             {
@@ -76,6 +76,26 @@ namespace _01.Masterchef
                     excessIngredients += item;
                 }
                 Console.WriteLine($"Ingredients left: {excessIngredients}");
+
+                if (chocoladeCake != 0)
+                {
+                    Console.WriteLine($" # Chocolate cake --> {chocoladeCake}");
+                }
+
+                if (dippingSouce != 0)
+                {
+                    Console.WriteLine($" # Dipping sauce --> {dippingSouce}");
+                }
+
+                if (greenSalad != 0)
+                {
+                    Console.WriteLine($" # Green salad --> {greenSalad}");
+                }
+
+                if (lobster != 0)
+                {
+                    Console.WriteLine($" # Lobster --> {lobster}");
+                }
             }
         }
     }

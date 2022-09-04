@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace _02.TheBattleOfTheFiveArmies
 {
-    public class Program
+    public class Program // Runtime Error - 30%
     {
         static void Main()
         {
