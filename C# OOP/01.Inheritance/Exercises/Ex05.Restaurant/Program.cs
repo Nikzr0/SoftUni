@@ -1,7 +1,4 @@
-﻿using System.Diagnostics;
-using System.Xml.Linq;
-
-namespace Ex05.Restaurant
+﻿namespace Ex05.Restaurant
 {
     public class Product
     {
@@ -30,7 +27,6 @@ namespace Ex05.Restaurant
             Grams = grams;
         }
     }
-
     public class MainDish : Food
     {
         public MainDish()
@@ -53,7 +49,6 @@ namespace Ex05.Restaurant
             Calories = calories;
         }
     }
-
     public class Cake : Dessert
     {
         public Cake()
@@ -90,7 +85,6 @@ namespace Ex05.Restaurant
 
         }
     }
-
     public class Fish : MainDish
     {
         public Fish()
@@ -103,7 +97,6 @@ namespace Ex05.Restaurant
 
         }
     }
-
     public class Bevarages : Product
     {
         public Bevarages()
@@ -116,7 +109,6 @@ namespace Ex05.Restaurant
             Milliliters = milliliters;
         }
     }
-
     public class HotBevarages : Bevarages
     {
         public HotBevarages()
@@ -135,7 +127,6 @@ namespace Ex05.Restaurant
 
         }
     }
-
     public class Coffee : HotBevarages
     {
         public double CoffeeMilliliters { get; set; }
@@ -164,7 +155,6 @@ namespace Ex05.Restaurant
     {
         static void Main()
         {
-
         }
     }
 }
