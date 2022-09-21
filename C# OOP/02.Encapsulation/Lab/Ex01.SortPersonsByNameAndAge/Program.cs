@@ -4,7 +4,6 @@ using System.Linq;
 
 namespace Ex01.SortPersonsByNameAndAge
 {
-
     public class Person
     {
         private string name;
