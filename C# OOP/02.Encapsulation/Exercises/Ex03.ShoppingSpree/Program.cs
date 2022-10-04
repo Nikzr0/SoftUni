@@ -8,16 +8,15 @@ namespace Ex03.ShoppingSpree
     {
         private string name;
         private double money;
-        //private List<Product> bagOfProducts;
 
         public string Name
         {
             get { return name; }
-            private set
+            set
             {
                 if (value == null)
                 {
-                    throw new ArgumentNullException("Name cannot be empty");
+                    throw new Exception("Name cannot be empty");
                 }
                 name = value;
             }
@@ -26,11 +25,11 @@ namespace Ex03.ShoppingSpree
         public double Money
         {
             get { return money; }
-             set
+            set
             {
                 if (value < 0)
                 {
-                    throw new ArgumentNullException("Money cannot be negative");
+                    throw new Exception("Money cannot be negative");
                 }
                 money = value;
             }
@@ -38,20 +37,18 @@ namespace Ex03.ShoppingSpree
         public List<string> BagOfProducts { get; set; }
         public Person()
         {
-            List<string> BagOfProducts = new List<string>();
+            BagOfProducts = new List<string>();
         }
         public Person(string name, double money)
         {
             Name = name;
             Money = money;
+            BagOfProducts = new List<string>();
         }
     }
 
     public class Product
     {
-        //private string name;
-        //private decimal cost;
-
         public string Name { get; set; }
         public double Cost { get; set; }
 
@@ -72,14 +69,24 @@ namespace Ex03.ShoppingSpree
             foreach (var item in lineOfPeople)
             {
                 string[] info = item.Split("=");
-                people.Add(new Person(info[0], double.Parse(info[1])));
+                try
+                {
+                    people.Add(new Person(info[0], double.Parse(info[1])));
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
             }
 
             List<string> lineOfProducts = Console.ReadLine().Split(";").ToList();
             foreach (var item in lineOfProducts)
             {
-                string[] info = item.Split("=");
-                products.Add(new Product(info[0], double.Parse(info[1])));
+                if (item != "")
+                {
+                    string[] info = item.Split("=");
+                    products.Add(new Product(info[0], double.Parse(info[1])));
+                }
             }
 
             while (true)
@@ -92,25 +99,25 @@ namespace Ex03.ShoppingSpree
 
                 string[] action = input.Split(" ");
 
-                foreach (var item in people.Where(x=>x.Name == action[0]))
+                foreach (var item in people.Where(x => x.Name == action[0]))
                 {
-                    string nameOfProduct = "";
-                    double priceOfProduct = 0;
+                    string productName = action[1];
+                    double productCost = 0;
 
-                    foreach (var product in products.Where(x=>x.Name == action[1]))
+                    foreach (var product in products.Where(x => x.Name == action[1]))
                     {
-                        product.Name = nameOfProduct;
-                        product.Cost = priceOfProduct;
+                        productCost = product.Cost;
                     }
 
-                    if (item.Money >= priceOfProduct)
+                    if (item.Money >= productCost)
                     {
-                        item.Money -= priceOfProduct;
-                        item.BagOfProducts.Add(action[1]);
+                        item.Money -= productCost;
+
+                        item.BagOfProducts.Add(productName);
                     }
                     else
                     {
-                        Console.WriteLine($"{item.Name} can't afford {nameOfProduct}");
+                        Console.WriteLine($"{item.Name} can't afford {productName}");
                     }
                 }
             }
@@ -119,16 +126,13 @@ namespace Ex03.ShoppingSpree
             {
                 if (item.BagOfProducts != null)
                 {
-                    foreach (var prods in item.BagOfProducts)
-                    {
-                        string allProducts = string.Join(", ", prods);
-                        Console.WriteLine($"{item.Name} - {allProducts}");
-                    }
+                    string allProducts = string.Join(", ", item.BagOfProducts);
+                    Console.WriteLine($"{item.Name} - {allProducts}");
                 }
                 else
                 {
                     Console.WriteLine($"{item.Name} - Nothing bought");
-                }               
+                }
             }
         }
     }
