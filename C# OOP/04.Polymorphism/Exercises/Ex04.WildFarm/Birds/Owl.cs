@@ -19,6 +19,10 @@ namespace Ex04.WildFarm.Birds
                 Weight += quantity * 0.25;
                 FoodEaten += quantity;
             }
+            else
+            {
+                Console.WriteLine($"Owl does not eat {typeOfFood}!");
+            }
         }
     }
 }

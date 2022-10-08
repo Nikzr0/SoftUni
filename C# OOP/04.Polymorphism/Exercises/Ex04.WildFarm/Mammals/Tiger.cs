@@ -19,6 +19,10 @@ namespace Ex04.WildFarm.Mammals
                 Weight += quantity * 1;
                 FoodEaten += quantity;
             }
+            else
+            {
+                Console.WriteLine($"Tiger does not eat {typeOfFood}!");
+            }
         }
     }
 }

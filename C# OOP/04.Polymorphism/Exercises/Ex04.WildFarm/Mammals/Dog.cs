@@ -19,6 +19,10 @@ namespace Ex04.WildFarm.Mammals
                 Weight += quantity * 0.4;
                 FoodEaten += quantity;
             }
+            else
+            {
+                Console.WriteLine($"Dog does not eat {typeOfFood}!");
+            }
         }
     }
 }

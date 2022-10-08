@@ -19,6 +19,10 @@ namespace Ex04.WildFarm.Mammals
                 Weight += quantity * 0.1;
                 FoodEaten += quantity;
             }
+            else
+            {
+                Console.WriteLine($"Mouse does not eat {typeOfFood}!");
+            }
         }
     }
 }
