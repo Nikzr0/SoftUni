@@ -26,7 +26,7 @@ namespace Database.Tests
             {
                 db.Add(i);
             }
-            Assert.Throws<InvalidOperationException>(()=> db.Add(17));
+            Assert.Throws<InvalidOperationException>(() => db.Add(17));
         }
 
         [Test]
