@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex05.ConnectedAreasInMatrix
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06.Cinema", "Ex06.Cinema\Ex06.Cinema.csproj", "{3B1DBC37-DECE-4113-BE3E-D153062A213E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07.WordCruncher", "Ex07.WordCruncher\Ex07.WordCruncher.csproj", "{CA41430C-540A-44BA-831A-184A550392DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex08.SchoolTeams", "Ex08.SchoolTeams\Ex08.SchoolTeams.csproj", "{F5667F55-C909-4B16-BE11-5E3393B40E05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{3B1DBC37-DECE-4113-BE3E-D153062A213E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B1DBC37-DECE-4113-BE3E-D153062A213E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B1DBC37-DECE-4113-BE3E-D153062A213E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA41430C-540A-44BA-831A-184A550392DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA41430C-540A-44BA-831A-184A550392DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA41430C-540A-44BA-831A-184A550392DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA41430C-540A-44BA-831A-184A550392DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5667F55-C909-4B16-BE11-5E3393B40E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5667F55-C909-4B16-BE11-5E3393B40E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5667F55-C909-4B16-BE11-5E3393B40E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5667F55-C909-4B16-BE11-5E3393B40E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
