@@ -3,29 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L01.PermutationsWithoutRepetitions", "L01.PermutationsWithoutRepetitions\L01.PermutationsWithoutRepetitions.csproj", "{59C3840E-0AD2-4A35-842A-70DB9A580D5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L01.PermutationsWithoutRepetitions", "L01.PermutationsWithoutRepetitions\L01.PermutationsWithoutRepetitions.csproj", "{59C3840E-0AD2-4A35-842A-70DB9A580D5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02.PermutationsWithRepetitions", "L02.PermutationsWithRepetitions\L02.PermutationsWithRepetitions.csproj", "{B835F93C-EE4A-4B9B-A3AA-990E9150DEE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L02.PermutationsWithRepetitions", "L02.PermutationsWithRepetitions\L02.PermutationsWithRepetitions.csproj", "{B835F93C-EE4A-4B9B-A3AA-990E9150DEE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L03.VariationsWithoutRepetitions", "L03.VariationsWithoutRepetitions\L03.VariationsWithoutRepetitions.csproj", "{1BE5D2D5-8E0A-4A5D-A122-96F9096326D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L03.VariationsWithoutRepetitions", "L03.VariationsWithoutRepetitions\L03.VariationsWithoutRepetitions.csproj", "{1BE5D2D5-8E0A-4A5D-A122-96F9096326D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L04.VariationsWithRepetition", "L04.VariationsWithRepetition\L04.VariationsWithRepetition.csproj", "{61F6433A-5044-470D-BE96-1352DB520721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L04.VariationsWithRepetition", "L04.VariationsWithRepetition\L04.VariationsWithRepetition.csproj", "{61F6433A-5044-470D-BE96-1352DB520721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L05.CombinationsWithoutRepetition", "L05.CombinationsWithoutRepetition\L05.CombinationsWithoutRepetition.csproj", "{F2C0DE5C-CAA3-4686-B2B7-6B206D0CF314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L05.CombinationsWithoutRepetition", "L05.CombinationsWithoutRepetition\L05.CombinationsWithoutRepetition.csproj", "{F2C0DE5C-CAA3-4686-B2B7-6B206D0CF314}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L06.CombinationsWithRepetition", "L06.CombinationsWithRepetition\L06.CombinationsWithRepetition.csproj", "{3A219B65-EA5C-4304-8E6B-A2D8B267449A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L06.CombinationsWithRepetition", "L06.CombinationsWithRepetition\L06.CombinationsWithRepetition.csproj", "{3A219B65-EA5C-4304-8E6B-A2D8B267449A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L07.NChooseKCount", "L07.NChooseKCount\L07.NChooseKCount.csproj", "{9054DF4F-8B37-425D-97B9-48BA80FF017C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L07.NChooseKCount", "L07.NChooseKCount\L07.NChooseKCount.csproj", "{9054DF4F-8B37-425D-97B9-48BA80FF017C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01.ReverseArray", "Ex01.ReverseArray\Ex01.ReverseArray.csproj", "{6BBC0B6D-2AD9-4E73-9D50-B1A220B2DC28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex01.ReverseArray", "Ex01.ReverseArray\Ex01.ReverseArray.csproj", "{6BBC0B6D-2AD9-4E73-9D50-B1A220B2DC28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02.NestedLoopsToRecursion", "Ex02.NestedLoopsToRecursion\Ex02.NestedLoopsToRecursion.csproj", "{148318E5-FBD1-4609-AE10-1C6A38B7F698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02.NestedLoopsToRecursion", "Ex02.NestedLoopsToRecursion\Ex02.NestedLoopsToRecursion.csproj", "{148318E5-FBD1-4609-AE10-1C6A38B7F698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.CombinationsWithRepetition", "Ex03.CombinationsWithRepetition\Ex03.CombinationsWithRepetition.csproj", "{52BAFEF1-4C0B-4309-A3F5-2B7BB353AAB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex03.CombinationsWithRepetition", "Ex03.CombinationsWithRepetition\Ex03.CombinationsWithRepetition.csproj", "{52BAFEF1-4C0B-4309-A3F5-2B7BB353AAB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.CombinationsWithoutRepetition", "Ex04.CombinationsWithoutRepetition\Ex04.CombinationsWithoutRepetition.csproj", "{341BAAC9-6D74-4A5B-8B54-C8F519AC9381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex04.CombinationsWithoutRepetition", "Ex04.CombinationsWithoutRepetition\Ex04.CombinationsWithoutRepetition.csproj", "{341BAAC9-6D74-4A5B-8B54-C8F519AC9381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.ConnectedAreasInMatrix", "Ex05.ConnectedAreasInMatrix\Ex05.ConnectedAreasInMatrix.csproj", "{EE473D4F-F9B7-44D0-A851-E256439AE693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex05.ConnectedAreasInMatrix", "Ex05.ConnectedAreasInMatrix\Ex05.ConnectedAreasInMatrix.csproj", "{EE473D4F-F9B7-44D0-A851-E256439AE693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06.Cinema", "Ex06.Cinema\Ex06.Cinema.csproj", "{3B1DBC37-DECE-4113-BE3E-D153062A213E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{EE473D4F-F9B7-44D0-A851-E256439AE693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE473D4F-F9B7-44D0-A851-E256439AE693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE473D4F-F9B7-44D0-A851-E256439AE693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1DBC37-DECE-4113-BE3E-D153062A213E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1DBC37-DECE-4113-BE3E-D153062A213E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1DBC37-DECE-4113-BE3E-D153062A213E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1DBC37-DECE-4113-BE3E-D153062A213E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
