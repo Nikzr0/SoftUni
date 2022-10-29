@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02.SelectionSort", "Ex02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.BubbleSort", "Ex03.BubbleSort\Ex03.BubbleSort.csproj", "{12800A63-6DBA-49A9-B643-C4FC2CA1C895}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.InsertionSort", "Ex04.InsertionSort\Ex04.InsertionSort.csproj", "{A12F3F89-DB49-4B1A-A9D8-08033A0B60E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{12800A63-6DBA-49A9-B643-C4FC2CA1C895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12800A63-6DBA-49A9-B643-C4FC2CA1C895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12800A63-6DBA-49A9-B643-C4FC2CA1C895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12F3F89-DB49-4B1A-A9D8-08033A0B60E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12F3F89-DB49-4B1A-A9D8-08033A0B60E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12F3F89-DB49-4B1A-A9D8-08033A0B60E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12F3F89-DB49-4B1A-A9D8-08033A0B60E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
