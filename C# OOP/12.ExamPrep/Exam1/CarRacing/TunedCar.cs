@@ -1,18 +1,17 @@
-﻿namespace CarRacing
+﻿using System;
+
+namespace CarRacing
 {
     public class TunedCar : Car
-    {
-        public TunedCar(string make, string model, string vIN, int horsePower, double fuelAvailable, double fuelConsumptionPerRace) : base(make, model, vIN, horsePower, fuelAvailable, fuelConsumptionPerRace)
+    {        public TunedCar(string make, string model, string VIN, int horsePower)
+         : base(make, model, VIN, horsePower, 65, 7.5)
         {
-            FuelAvailable = 65;
-            FuelConsumptionPerRace = 7.5;
         }
 
         public override void Drive()
         {
-            // Potential Error? 
-            base.Drive(); 
-            HorsePower -= (int)(HorsePower * 0.03);
+            base.Drive();
+            this.HorsePower = (int)Math.Round(this.HorsePower * 0.97);
         }
     }
 }

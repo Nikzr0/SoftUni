@@ -2,10 +2,9 @@
 {
     public class SuperCar : Car
     {
-        public SuperCar(string make, string model, string vIN, int horsePower, double fuelAvailable, double fuelConsumptionPerRace) : base(make, model, vIN, horsePower, fuelAvailable, fuelConsumptionPerRace)
+        public SuperCar(string make, string model, string VIN, int horsePower)
+             : base(make, model, VIN, horsePower, 80, 10)
         {
-            FuelAvailable = 80;
-            FuelConsumptionPerRace = 10;
         }
     }
 }

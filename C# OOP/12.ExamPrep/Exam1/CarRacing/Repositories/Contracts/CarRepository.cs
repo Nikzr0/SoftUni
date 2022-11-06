@@ -6,44 +6,33 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    public class CarRepository<T> : IRepository<T>
+
+    public class CarRepository : IRepository<ICar>
     {
-        private List<T> models;
-        public IReadOnlyCollection<T> Models
+        private List<ICar> cars;
+
+        public CarRepository()
         {
-            get { return models; }
-            set { models = new List<T>(value); }
+            this.cars = new List<ICar>();
         }
-        public void Add(T model)
+        public IReadOnlyCollection<ICar> Models => this.cars;
+
+        public void Add(ICar model)
         {
             if (model == null)
             {
-                throw new ArgumentException(ExceptionMessages.InvalidAddCarRepository);
+                throw new ArgumentException("Cannot add null in Car Repository");
             }
 
-            //var oldModels = new List<T>(Models);
-            //oldModels.Add(model);
-            //Models.Add(oldModels);
-
-            models.Add(model);
+            this.cars.Add(model);
         }
-
-        public T FindBy(string vin)
+        public ICar FindBy(string property)
         {
-            throw new System.NotImplementedException();
+            return this.cars.FirstOrDefault(x => x.VIN == property);
         }
-
-        public bool Remove(T model)
+        public bool Remove(ICar model)
         {
-            bool result = false;
-
-            if (models.Contains(model))
-            {
-                models.Remove(model);
-                result = true;
-            }
-
-            return result;
+            return this.cars.Remove(model);
         }
     }
 }

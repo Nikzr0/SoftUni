@@ -4,7 +4,7 @@
     using CarRacing.Utilities.Messages;
     using System;
 
-    public class Car : ICar
+    public  class Car : ICar
     {
         private string make;
         private string model;
@@ -115,8 +115,7 @@
                 fuelconsumptionperrace = value;
             }
 
-        }       
-
+        }      
         public virtual void Drive()
         {
             FuelAvailable = FuelAvailable - FuelConsumptionPerRace;

@@ -1,22 +1,40 @@
-﻿namespace CarRacing.Repositories.Contracts
+﻿using CarRacing.Utilities.Messages;
+using System.Collections.Generic;
+using System;
+using CarRacing.Models.Racers.Contracts;
+using System.Linq;
+
+namespace CarRacing.Repositories.Contracts
 {
-    public class RacerRepository : IRepository<T>
+    public class RacerRepository : IRepository<IRacer>
     {
-        public System.Collections.Generic.IReadOnlyCollection<T> Models => throw new System.NotImplementedException();
+        private List<IRacer> racers;
 
-        public void Add(T model)
+        public RacerRepository()
         {
-            throw new System.NotImplementedException();
+            this.racers = new List<IRacer>();
         }
 
-        public T FindBy(string property)
+        public IReadOnlyCollection<IRacer> Models => this.racers;
+
+        public void Add(IRacer model)
         {
-            throw new System.NotImplementedException();
+            if (model == null)
+            {
+                throw new ArgumentException("Cannot add null in Racer Repository");
+            }
+
+            this.racers.Add(model);
         }
 
-        public bool Remove(T model)
+        public IRacer FindBy(string property)
         {
-            throw new System.NotImplementedException();
+            return this.racers.FirstOrDefault(x => x.Username == property);
+        }
+
+        public bool Remove(IRacer model)
+        {
+            return this.racers.Remove(model);
         }
     }
 }

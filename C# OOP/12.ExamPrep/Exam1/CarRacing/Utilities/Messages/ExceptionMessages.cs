@@ -19,7 +19,6 @@
 		public const string InvalidRacerDrivingExperience = "Racer driving experience must be between 0 and 100.";
 
 		public const string InvalidRacerCar = "Car cannot be null or empty.";
-		//
 
 		public const string InvalidAddCarRepository = "Cannot add null in Car Repository";
 

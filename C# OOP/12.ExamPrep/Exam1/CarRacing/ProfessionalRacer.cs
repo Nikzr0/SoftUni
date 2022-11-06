@@ -4,16 +4,14 @@
 
     public class ProfessionalRacer : Racer
     {
-        public ProfessionalRacer(string userName, string racingBehavior, int drivingExperience, ICar ctorCar) : base(userName, racingBehavior, drivingExperience, ctorCar)
+        public ProfessionalRacer(string username, ICar car)
+            : base(username, "strict", 30, car)
         {
-            DrivingExperience = 30;
-            RacingBehavior = "aggressive";
         }
-
         public override void Race()
         {
             base.Race();
-            DrivingExperience += 5;
+            this.DrivingExperience += 10;
         }
     }
 }
