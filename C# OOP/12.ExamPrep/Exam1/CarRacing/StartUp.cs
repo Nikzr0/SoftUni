@@ -5,7 +5,9 @@
     using System.Runtime.Serialization;
     public class StartUp
     {
-/*Not entirely working but the structure is great*/
+
+        /*Not entirely working
+         * but the structure is great*/
         public static void Main(string[] args)
         {
             IEngine engine = new Engine();
