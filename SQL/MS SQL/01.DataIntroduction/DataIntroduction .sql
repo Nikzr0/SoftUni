@@ -1,4 +1,4 @@
-Create database Minions;
+﻿Create database Minions;
 create table Minions
 (
  Id int Primary Key,
