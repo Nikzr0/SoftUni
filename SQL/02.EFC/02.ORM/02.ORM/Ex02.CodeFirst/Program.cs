@@ -8,22 +8,22 @@ namespace Ex02.CodeFirst
         // Terrible naming
         static void Main()
         {
-            //var context = new Context();
-            //context.Database.EnsureCreated();
-            //context.SaveChanges();
+            var context = new Context();
+            context.Database.EnsureCreated();
+            context.SaveChanges();
 
-            //var db = new Context();
+            var db = new Context();
 
-            //db.Title.Add(new Title
-            //{
-            //    NewsId= 1,
-            //    New = new Newa
-            //    { Length= 1,}
-                
-            //}
-            //);
+            db.Title.Add(new Title
+            {
+                NewsId = 1,
+                New = new Newa
+                { Length = 1, }
 
-            //db.SaveChanges();
+            }
+            );
+
+            db.SaveChanges();
         }
     }
 }
