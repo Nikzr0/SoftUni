@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using ProductShop.Models;
+using System.Xml.Serialization;
 
 namespace ProductShop
 {
@@ -6,6 +8,7 @@ namespace ProductShop
     {
         public ProductShopProfile()
         {
+            this.CreateMap<ImportContext, User>();
         }
     }
 }

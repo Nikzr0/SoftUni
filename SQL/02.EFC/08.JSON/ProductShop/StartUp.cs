@@ -1,48 +1,75 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection.PortableExecutable;
 using System.Runtime.Serialization.Json;
-using System.Text.Json;
-using System.Text.Json.Serialization;
 using System.Xml;
+using AutoMapper;
+using Newtonsoft.Json;
 using ProductShop.Data;
+using ProductShop.Dtos;
 using ProductShop.Models;
 
 namespace ProductShop
 {
+    //There could be some problems due to the shifting between Json libraries
     public class StartUp
     {
+        static IMapper mapper;
         public static void Main()
         {
             var db = new ProductShopContext();
-            db.Database.EnsureCreated();
-            Console.WriteLine(GetProductsInRange(db));
-        }
+            //db.Database.EnsureDeleted();
+            //db.Database.EnsureCreated();
 
+            //Auto mapping 
+            //var config = new MapperConfiguration(c =>
+            //{
+            //    c.AddProfile<ProductShopProfile>();
+
+            //});
+            //mapper = config.CreateMapper();
+
+            //var config = new MapperConfiguration(cfg =>
+            //{
+            //    cfg.CreateMap<ImportUserDto, User>()
+            //    .ForMember(x => x.Age, y => y.MapFrom(x => int.Parse(x.Age)));
+
+            //});
+            //var mapper = config.CreateMapper();
+
+            //Console.WriteLine(ImportUsers(db, @"D:\Programming\C#\SoftUni\Code\SQL\02.EFC\08.JSON\ProductShop\Datasets\users.json"));
+            //Console.WriteLine(ImportProducts(db, @"D:\Programming\C#\SoftUni\Code\SQL\02.EFC\08.JSON\ProductShop\Datasets\products.json"));
+            //Console.WriteLine(ImportCategories(db, @"D:\Programming\C#\SoftUni\Code\SQL\02.EFC\08.JSON\ProductShop\Datasets\categories.json"));
+            Console.WriteLine(ImportCategoryProducts(db, @"D:\Programming\C#\SoftUni\Code\SQL\02.EFC\08.JSON\ProductShop\Datasets\categories-products.json"));
+        }
         public static string ImportUsers(ProductShopContext db, string inputJson)
         {
-            var jsonReader = File.ReadAllText(inputJson);
-            var users = JsonSerializer.Deserialize<List<User>>(File.ReadAllText(jsonReader));
+            var json = File.ReadAllText(inputJson);
+            var users = JsonConvert.DeserializeObject<User[]>(json);
 
-            db.Users.AddRange(users);
-            db.SaveChanges();
-            return $"Successfully imported {users.Count}";
+            foreach (var user in users)
+            {
+                db.Users.Add(user);
+            }
+
+            return $"Successfully imported {db.SaveChanges()}";
         }
         public static string ImportProducts(ProductShopContext db, string inputJson)
         {
             var jsonReader = File.ReadAllText(inputJson);
-            var products = JsonSerializer.Deserialize<List<Product>>(File.ReadAllText(jsonReader));
+            var products = JsonConvert.DeserializeObject<Product[]>(jsonReader);
 
             db.Products.AddRange(products);
-            db.SaveChanges();
-            return $"Successfully imported {products.Count}";
+
+            return $"Successfully imported {db.SaveChanges()}";
         }
         public static string ImportCategories(ProductShopContext db, string inputJson)
         {
             var jsonReader = File.ReadAllText(inputJson);
-            var categories = JsonSerializer.Deserialize<List<Category>>(jsonReader);
+            var categories = JsonConvert.DeserializeObject<Category[]>(jsonReader);
 
             foreach (var category in categories)
             {
@@ -51,19 +78,15 @@ namespace ProductShop
                     db.Categories.Add(category);
                 }
             }
-            db.SaveChanges();
 
-            return $"Successfully imported {categories.Count}";
+            return $"Successfully imported {db.SaveChanges()}";
         }
         public static string ImportCategoryProducts(ProductShopContext db, string inputJson)
         {
-            var jsonReader = File.ReadAllText(inputJson);
-            var productsAndProducts = JsonSerializer
-                .Deserialize<List<CategoryProduct>>(File.ReadAllText(jsonReader));
+            var productsAndProducts = JsonConvert.DeserializeObject<List<CategoryProduct>>(File.ReadAllText(inputJson));
 
-            db.CategoryProducts.AddRange(productsAndProducts);
-            db.SaveChanges();
-            return $"Successfully imported {productsAndProducts.Count}";
+            db.CategoryProducts.AddRange(productsAndProducts);            
+            return $"Successfully imported {db.SaveChanges()}";
         }
         public static string GetProductsInRange(ProductShopContext db)
         {
@@ -77,9 +100,8 @@ namespace ProductShop
              .Where(p => p.Price >= 10 && p.Price <= 1000)
              .OrderBy(p => p.Price)
              .ToList();
-
-
-            var json = JsonSerializer.Serialize(filteredProducts, new JsonSerializerOptions { WriteIndented = true });
+            
+            var json = JsonConvert.SerializeObject(filteredProducts);
 
             if (File.Exists("filteredProducts.json"))
             {
@@ -88,7 +110,6 @@ namespace ProductShop
 
             File.WriteAllText("filteredProducts.json", json);
 
-            //return json; {It works the same way as without creating a json file}
             return File.ReadAllText("filteredProducts.json");
         }
         public static string GetSoldProducts(ProductShopContext db)
@@ -110,7 +131,8 @@ namespace ProductShop
                     }).ToList(),
                 }).ToList();
 
-            var json = JsonSerializer.Serialize(soldProducts, new JsonSerializerOptions { WriteIndented = true });
+            var json = JsonConvert.SerializeObject(soldProducts);
+            //var json = JsonConvert.Serialize(soldProducts, new JsonSerializerOptions { WriteIndented = true });
 
             return json;
         }
@@ -126,28 +148,31 @@ namespace ProductShop
                     TotalRevanue = $"{x.CategoryProducts.Select(p => p.Product.Price).Sum(x => x):f2}"
                 }).ToList();
 
-            var json = JsonSerializer.Serialize(categories, new JsonSerializerOptions { WriteIndented = true });
+            var json = JsonConvert.SerializeObject(categories);
+            //var json = JsonSerializer.Serialize(categories, new JsonSerializerOptions { WriteIndented = true });
             return json;
         }
         public static string GetUsersWithProducts(ProductShopContext db)
         {
             var soldProducts = db.Users
                  .Where(x => x.ProductsSold.Count > 0)
-                 .OrderByDescending(x=>x.ProductsSold.Count)
+                 .OrderByDescending(x => x.ProductsSold.Count)
                 .Select(x => new
                 {
                     FirstName = x.FirstName,
                     LastName = x.LastName,
                     Age = x.Age,
                     ProducyInfo = x.ProductsSold
-                    .Where(x=>x.Name != null)
-                    .Select(x=> new { 
-                     ProductName = x.Name,
-                     ProductPrice = x.Price
+                    .Where(x => x.Name != null)
+                    .Select(x => new
+                    {
+                        ProductName = x.Name,
+                        ProductPrice = x.Price
                     })
                 }).ToList();
 
-            var json = JsonSerializer.Serialize(soldProducts, new JsonSerializerOptions { WriteIndented = true });
+            var json = JsonConvert.SerializeObject(soldProducts);
+           // var json = JsonSerializer.Serialize(soldProducts, new JsonSerializerOptions { WriteIndented = true });
             return json;
         }
     }
