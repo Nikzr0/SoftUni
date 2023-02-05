@@ -8,7 +8,7 @@ namespace TeisterMask.DataProcessor.ImportDto
 {
     public class ImportProjectDto
     {
-        public int Name { get; set; }
+        public string Name { get; set; }
         public DateTime OpenDate { get; set; }
         public DateTime? DueDate { get; set; }
         public IEnumerable<Task> Tasks { get; set; }

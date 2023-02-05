@@ -14,6 +14,7 @@
         public static void Main(string[] args)
         {
             var context = new TeisterMaskContext();
+            context.Database.Migrate();
 
             Mapper.Initialize(cfg => cfg.AddProfile<TeisterMaskProfile>());
 
@@ -28,6 +29,7 @@
             using var transaction = context.Database.BeginTransaction();
 
             transaction.Rollback();
+            
         }
 
         private static void ImportEntities(TeisterMaskContext context, string baseDir, string exportDir)

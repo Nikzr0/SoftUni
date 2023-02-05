@@ -11,7 +11,7 @@ namespace TeisterMask.Data.Models
 
         [Required]
         [MaxLength(40), MinLength(2)]
-        public int Name { get; set; }
+        public string Name { get; set; }
         [Required]
         public DateTime OpenDate { get; set; }
         public DateTime? DueDate { get; set; }

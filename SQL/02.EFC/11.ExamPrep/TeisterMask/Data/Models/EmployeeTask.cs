@@ -14,5 +14,8 @@ namespace TeisterMask.Data.Models
         [Required]
         public int TaskId { get; set; }
         public Task Task { get; set; }
+
+        public ExecutionType ExecutionDate { get; set; }
+        public LableType LableType { get; set; }
     }
 }
