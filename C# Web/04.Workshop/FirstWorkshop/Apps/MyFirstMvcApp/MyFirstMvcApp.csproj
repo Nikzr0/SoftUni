@@ -6,7 +6,27 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\SUS.MsFramework\SUS.MsFramework.csproj" />
     <ProjectReference Include="..\..\SUS\SUS.HTTP.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Views\Home\Index.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Views\Shared\_Layout.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Views\Users\Register.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Views\wwwroot\favicon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Cards\" />
   </ItemGroup>
 
 </Project>

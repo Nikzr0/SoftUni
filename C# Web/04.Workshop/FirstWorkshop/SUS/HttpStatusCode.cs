@@ -4,8 +4,6 @@ using System.Text;
 
 namespace SUS.HTTP
 {
-    // An enum of status code
-    // There many more status codes out there, those ther are just some examples
     public enum HttpStatusCode
     {
         Ok = 200,

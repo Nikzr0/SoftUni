@@ -1,0 +1,24 @@
+﻿@using WebApplication24.ViewModels.Home;
+@using WebApplication24.Serivice;
+
+@inject IShortSevice ShortString;
+@inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
+@model IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>@Model.FirstName</p>
+    <p>@Model.TimeGiver</p>s
+  <h1>@this.Configuration["HelloMessage"]</h1>
+    @this.Html.Raw("<>")
+
+    @*<input type="datetime-local"/>*@
+
+    @await Html.PartialAsync("_HomeAlert.cshtml")
+    <partial name="_HomeAlert.cshtml"></partial>
+
+    <p>@ShortString.GetShortDescription(Model.Description, 30)</p>
+</div>

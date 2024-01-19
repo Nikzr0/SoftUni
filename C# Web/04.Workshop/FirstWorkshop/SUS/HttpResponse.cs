@@ -8,13 +8,14 @@ namespace SUS.HTTP
 {
     public class HttpResponse
     {
+        private HttpStatusCode notFound;
+        private string v1;
+        private string v2;
         public HttpResponse(string contentType, byte[] body, HttpStatusCode statusCode = HttpStatusCode.Ok)
         {
             if (body == null)
             {
-                //throw new ArgumentException(nameof(body));
-                //Or if it is null to to replaces with empty body
-                body = new byte[0]; // Empty body, but not null
+                body = new byte[0];
             }
 
             this.StatusCode = statusCode;// 200 Ok
@@ -22,9 +23,16 @@ namespace SUS.HTTP
             this.Headers = new List<Header>()
             {
                 {new Header ("Content-Type", contentType)},
-                {new Header ("Content-Length", body?.Length.ToString())} // It is nullable 
+                {new Header ("Content-Length", body?.Length.ToString())}
             };
             this.Cookies = new List<Cookie> { };
+        }
+
+        public HttpResponse(HttpStatusCode notFound, string v1, string v2)
+        {
+            this.notFound = notFound;
+            this.v1 = v1;
+            this.v2 = v2;
         }
 
         public override string ToString()
@@ -39,6 +47,8 @@ namespace SUS.HTTP
                 sb.Append(header.ToString() + PublicConstants.NewLine);                
             }
 
+            sb.Append(PublicConstants.NewLine);
+
             foreach (var cookie in Cookies)
             {
                 sb.Append($"Set-Cookie: " + cookie.ToString() + PublicConstants.NewLine);
@@ -47,8 +57,8 @@ namespace SUS.HTTP
 
             return sb.ToString();
         }
-        public ICollection<Header> Headers { get; set; }
         public HttpStatusCode StatusCode { get; set; }
+        public ICollection<Header> Headers { get; set; }
         public ICollection<Cookie> Cookies { get; set; }
         public byte[] Body { get; set; }
     }

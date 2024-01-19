@@ -24,7 +24,7 @@ namespace SUS.HTTP
 
             if (MaxAge != 0) // It's set
             {
-                sb.Append($"Max-Age={this.MaxAge}; Path={this.Path};");
+                sb.Append($" Max-Age={this.MaxAge}; Path={this.Path};");
             }
 
             if (this.HttpOnly)

@@ -13,7 +13,7 @@ namespace SUS.HTTP
         public HttpRequest(string requestString)
         {
             // To prevent NoReferenceException
-            this.Headres = new List<Header>();
+            this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
 
             var lines = requestString.Split(new string[] { PublicConstants.NewLine }, StringSplitOptions.None);
@@ -43,7 +43,7 @@ namespace SUS.HTTP
 
                 if (isInHeaders)
                 {
-                    this.Headres.Add(new Header(line));
+                    this.Headers.Add(new Header(line));
                 }
                 else
                 {
@@ -51,9 +51,9 @@ namespace SUS.HTTP
                 }
             }
 
-            if (this.Headres.Any(x=> x.Name == PublicConstants.RequestCookieHeader))
+            if (this.Headers.Any(x=> x.Name == PublicConstants.RequestCookieHeader))
             {
-                var stringOfCookies = this.Headres
+                var stringOfCookies = this.Headers
                     .FirstOrDefault(x => x.Name == "Cookie").Value;
                 var cookies = stringOfCookies
                     .Split(new string[] { "; " }, StringSplitOptions.RemoveEmptyEntries);
@@ -68,8 +68,8 @@ namespace SUS.HTTP
         }
         public string Path { get; set; }
         public string Method { get; set; }
-        public List<Header> Headres { get; set; }
-        public List<Cookie> Cookies { get; set; }
+        public ICollection<Header> Headers { get; set; }
+        public ICollection<Cookie> Cookies { get; set; }
         public string Body { get; set; }
     }
 }

@@ -2,6 +2,7 @@
 using SUS.HTTP;
 using System;
 using System.Diagnostics;
+using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading.Tasks;
@@ -13,18 +14,14 @@ namespace MyFirstMvcApp
         static async Task Main()
         {
             IHttpServer server = new HttpServer();
-
-            // /user/register [user ==>> the name of the controller]
-            // /user/register [register ==>> the name of the method]
             server.AddRoute("/", new HomeController().Index);
-            server.AddRoute("/favicon", new StaticFilesController().Favicon);
-            server.AddRoute("/about", new HomeController().About);;
-            server.AddRoute("/user/login", new UsersController().Login);
-            server.AddRoute("/user/register", new UsersController().Register);
+            //server.AddRoute("/favicon", new StaticFilesController().Favicon);
 
-            // Opens the localhost every time when the app is started
-            Process.Start(new ProcessStartInfo("cmd", $"/c start http://localhost:180"));
-            await server.StartAsynch(180);
+            server.AddRoute("/users/login", new UsersController().Login);
+            server.AddRoute("/users/register", new UsersController().Register);
+
+            Process.Start(new ProcessStartInfo("cmd", $"/c start http://localhost"));
+            await server.StartAsynch(80);
         }
     }
 }
